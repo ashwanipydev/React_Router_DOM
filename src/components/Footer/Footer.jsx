@@ -36,7 +36,7 @@ export default function Footer() {
                             <ul className="text-gray-500 font-medium">
                                 <li className="mb-4">
                                     <a
-                                        to="https://github.com/ashwanipydev"
+                                        href="https://github.com/ashwanipydev"
                                         className="hover:underline"
                                         target="_blank"
                                         rel="noreferrer"
