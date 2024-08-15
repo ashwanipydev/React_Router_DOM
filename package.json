@@ -1,14 +1,13 @@
 {
-  "homepage": "https://ashwanipydev.github.io/React_Router_DOM/",
   "name": "react-router-dom",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy": "vite build",
-    "deploy" : "gh-pages -d build",
     "build": "vite build",
+    "predeploy": "vite build",
+    "deploy" : "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
