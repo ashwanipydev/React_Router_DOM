@@ -35,14 +35,14 @@ export default function Footer() {
                             <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase">Follow us</h2>
                             <ul className="text-gray-500 font-medium">
                                 <li className="mb-4">
-                                    <link
+                                    <a
                                         to="https://github.com/ashwanipydev"
                                         className="hover:underline"
                                         target="_blank"
                                         rel="noreferrer"
                                     >
                                         Github
-                                    </link>
+                                    </a>
                                 </li>
                                 <li>
                                     <Link to="/" className="hover:underline">
